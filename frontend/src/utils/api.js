@@ -2,7 +2,7 @@
  * Spectre Browser Fingerprint Analyzer
  * Util: Backend API Client
  * Author: @HACKEROFHELL (Rajesh Bajiya)
- * GitHub: github.com/hellrider978
+ * GitHub: github.com/thehellrider978
  * Year: 2026 | License: MIT
  */
 
