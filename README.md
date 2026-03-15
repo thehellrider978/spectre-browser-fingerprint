@@ -10,7 +10,7 @@
 ```
 
 **Created by:** [@HACKEROFHELL](https://github.com/hellrider978) (Rajesh Bajiya)  
-**GitHub:** [github.com/hellrider978](https://github.com/thehellrider978)  
+**GitHub:** [github.com/thehellrider978](https://github.com/thehellrider978)  
 **License:** MIT  
 **Version:** 1.0  
 
@@ -187,7 +187,7 @@ Key endpoints:
 |--|--|
 | **Handle** | @HACKEROFHELL |
 | **Name** | Rajesh Bajiya |
-| **GitHub** | [github.com/hellrider978](https://github.com/hellrider978) |
+| **GitHub** | [github.com/thehellrider978](https://github.com/thehellrider978) |
 | **License** | MIT |
 | **Year** | 2026 |
 
