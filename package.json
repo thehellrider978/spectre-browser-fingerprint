@@ -1,0 +1,19 @@
+{
+  "name": "spectre",
+  "version": "1.0.0",
+  "description": "Advanced Browser Fingerprint Intelligence Analyzer",
+  "author": "Rajesh Bajiya (@HACKEROFHELL) <github.com/hellrider978>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "docker:build": "docker build -t spectre .",
+    "docker:run": "docker run -p 3000:3000 -p 4000:4000 spectre"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
