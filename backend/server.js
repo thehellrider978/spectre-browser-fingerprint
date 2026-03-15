@@ -2,7 +2,7 @@
  * Spectre Browser Fingerprint Analyzer
  * Backend API Server
  * Author: @HACKEROFHELL (Rajesh Bajiya)
- * GitHub: github.com/hellrider978
+ * GitHub: github.com/thehellrider978
  * Year: 2026
  * License: MIT
  */
@@ -68,7 +68,7 @@ app.get('/api/about', (req, res) => {
     version:     '1.0.0',
     developer:   '@HACKEROFHELL',
     author:      'Rajesh Bajiya',
-    github:      'github.com/hellrider978',
+    github:      'github.com/thehellrider978',
     license:     'MIT',
     description: 'Advanced browser fingerprint intelligence platform for security researchers and pentesters.',
     year:        2026,
@@ -114,7 +114,7 @@ app.listen(PORT, () => {
 
   Spectre Browser Fingerprint Analyzer v1.0
   Created by: @HACKEROFHELL (Rajesh Bajiya)
-  GitHub: github.com/hellrider978
+  GitHub: github.com/thehellrider978
   ─────────────────────────────────────────
   API running on http://localhost:${PORT}
   `);
