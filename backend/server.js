@@ -87,6 +87,14 @@ app.get('/health', (req, res) => {
    // res.sendFile(path.join(__dirname, '../frontend/dist/index.html'));
  // });
 //}
+app.get('/', (req, res) => {
+  res.json({
+    status: 'Spectre API running',
+    tool: 'Spectre Browser Fingerprint Analyzer',
+    author: 'Rajesh Bajiya',
+    github: 'github.com/thehellrider978'
+  });
+});
 
 // ── Error handler ───────────────────────────────────────────────
 app.use((err, req, res, next) => {
